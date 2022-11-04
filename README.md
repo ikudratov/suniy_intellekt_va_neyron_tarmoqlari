@@ -218,3 +218,9 @@ solution = experiment.run()
 print(solution)
 
 ```
+
+```bash
+# Natijani ko'rish
+sudo docker-compose up
+
+```
