@@ -198,7 +198,7 @@ def hamming_distance(a: str, b: str) -> int:
 
 
 
-TARGET_STRING = "Kudratov Iskandar"
+TARGET_STRING = "Kudratov Iskandar / 403-21 guruh magistr talabasi"
 
 experiment = NaturalSelectionExperiment(
     population_size=250,
