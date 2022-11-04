@@ -3,7 +3,7 @@ version: '3'
 services:
   django:
     build: .
-    container_name: suniy_intelkekt_va_neyron tarmoqlari
+    container_name: suniy_intelkekt_va_neyron_tarmoqlari
     command: python3 index.py
     volumes:
       - ./app:/usr/src/app
