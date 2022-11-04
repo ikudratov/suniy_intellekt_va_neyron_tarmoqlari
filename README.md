@@ -1,6 +1,4 @@
-# Mustaqil ish: Optimallashtirish masalalarida genitik algoritmning qo‘llash
-## talaba: Kudratov ISKANDAR
-## guruh: 403-21 Telekommunikatsiya injiniring
+### Mustaqil ish: Optimallashtirish masalalarida genitik algoritmning qo‘llash
 
 
 ```bash
